@@ -1,0 +1,99 @@
+[
+    {
+        "questionNumber": 1,
+        "questionId": 481222,
+        "questionText": "ual to\\n\\n(A) 6\\n\\n(B) 12\\n\\n(C) 18\\n\\n(D) 2",
+        "options": [
+            {
+                "optionText": "6",
+                "isCorrect": true
+            },
+            {
+                "optionText": "12",
+                "isCorrect": false
+            },
+            {
+                "optionText": "18",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": 2,
+        "questionId": 481223,
+        "questionText": "ual to\\n(A) $\\\\sqrt{\\\\frac{5}{2}}$\\n(B) 4\\n(C) $2 \\\\sqrt{2}$\\n(D) 2",
+        "options": [
+            {
+                "optionText": "$\\\\sqrt{\\\\frac{5}{2}}$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "4",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$2 \\\\sqrt{2}$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "A and C only",
+                "isCorrect": false
+            },
+            {
+                "optionText": "B and C only",
+                "isCorrect": false
+            },
+            {
+                "optionText": "C and D only",
+                "isCorrect": false
+            },
+            {
+                "optionText": "|=|A|^{2}$",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": 3,
+        "questionId": 481225,
+        "questionText": "",
+        "options": [
+            {
+                "optionText": "$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "Sol. $\\\\frac{d y}{d x}=x^{2} \\\\cdot 2 e^{2 x}+2 x \\\\cdot e^{2 x}=2 x e^{2 x}",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$\\\\frac{8}{3}$",
+                "isCorrect": true
+            },
+            {
+                "optionText": "$\\\\frac{1}{9}$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "$\\\\frac{2}{9}$",
+                "isCorrect": false
+            },
+            {
+                "optionText": "",
+                "isCorrect": false
+            }
+        ]
+    }
+]
